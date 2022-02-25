@@ -16,6 +16,16 @@
     "shared" : false
   },
   "intents" : [ {
+    "id" : 1060,
+    "path" : "/ха ха классик",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "ха ха"
+    } ],
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
     "id" : 1058,
     "path" : "/пока",
     "enabled" : true,
