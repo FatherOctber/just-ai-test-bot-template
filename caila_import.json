@@ -16,7 +16,7 @@
     "shared" : false
   },
   "intents" : [ {
-    "id" : 1060,
+    "id" : 1310,
     "path" : "/ха ха классик",
     "enabled" : true,
     "shared" : false,
@@ -26,7 +26,7 @@
     "patterns" : [ ],
     "priority" : 0
   }, {
-    "id" : 1191,
+    "id" : 1311,
     "path" : "/sfsfdfds",
     "enabled" : true,
     "shared" : false,
@@ -34,7 +34,7 @@
     "patterns" : [ ],
     "priority" : 0
   }, {
-    "id" : 1058,
+    "id" : 1312,
     "path" : "/пока",
     "enabled" : true,
     "shared" : false,
@@ -43,7 +43,7 @@
     } ],
     "priority" : 0
   }, {
-    "id" : 1059,
+    "id" : 1313,
     "path" : "/привет",
     "enabled" : true,
     "shared" : false,
