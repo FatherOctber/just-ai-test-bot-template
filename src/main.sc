@@ -4,11 +4,11 @@ theme: /
 
     state: Start
         q!: $regex</start>
-        a: Начнём.
+        a: Начнём c {{ $secrets.get("topSecret", "kek") }}
 
     state: Hello
         intent!: /привет
-        a: Привет привет все началось Again
+        a: Привет привет все началось
 
     state: Bye
         intent!: /пока

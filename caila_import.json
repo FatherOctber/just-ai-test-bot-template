@@ -26,6 +26,14 @@
     "patterns" : [ ],
     "priority" : 0
   }, {
+    "id" : 1191,
+    "path" : "/sfsfdfds",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ ],
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
     "id" : 1058,
     "path" : "/пока",
     "enabled" : true,
