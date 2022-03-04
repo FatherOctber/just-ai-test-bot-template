@@ -1,7 +1,7 @@
 {
   "project" : {
-    "id" : "test_nm-1000001-jSr",
-    "name" : "test_nm-1000001-jSr",
+    "id" : "nm_secrets-1000001-bOe",
+    "name" : "nm_secrets-1000001-bOe",
     "folder" : "/jaicp"
   },
   "settings" : {
@@ -16,7 +16,7 @@
     "shared" : false
   },
   "intents" : [ {
-    "id" : 1310,
+    "id" : 3372,
     "path" : "/ха ха классик",
     "enabled" : true,
     "shared" : false,
@@ -26,7 +26,7 @@
     "patterns" : [ ],
     "priority" : 0
   }, {
-    "id" : 1311,
+    "id" : 3373,
     "path" : "/sfsfdfds",
     "enabled" : true,
     "shared" : false,
@@ -34,7 +34,7 @@
     "patterns" : [ ],
     "priority" : 0
   }, {
-    "id" : 1312,
+    "id" : 3374,
     "path" : "/пока",
     "enabled" : true,
     "shared" : false,
@@ -43,7 +43,7 @@
     } ],
     "priority" : 0
   }, {
-    "id" : 1313,
+    "id" : 3375,
     "path" : "/привет",
     "enabled" : true,
     "shared" : false,
