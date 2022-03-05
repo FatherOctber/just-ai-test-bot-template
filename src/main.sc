@@ -4,7 +4,8 @@ theme: /
 
     state: Start
         q!: $regex</start>
-        a: Начнём c {{ $secrets.get("topSecret", "kek") }}  пожалуй вот плез 
+        a: А вот секретик {{ $secrets.get("topSecret", "ии его нет") }}
+        a: Другой секретик {{ $secrets.get("test", "ии его нет") }}
 
     state: Hello
         intent!: /привет
