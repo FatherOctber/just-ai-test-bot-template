@@ -16,40 +16,12 @@
     "shared" : false
   },
   "intents" : [ {
-    "id" : 1310,
-    "path" : "/ха ха классик",
-    "enabled" : true,
-    "shared" : false,
-    "phrases" : [ {
-      "text" : "ха ха"
-    } ],
-    "patterns" : [ ],
-    "priority" : 0
-  }, {
     "id" : 1311,
     "path" : "/sfsfdfds",
     "enabled" : true,
     "shared" : false,
     "phrases" : [ ],
     "patterns" : [ ],
-    "priority" : 0
-  }, {
-    "id" : 1312,
-    "path" : "/пока",
-    "enabled" : true,
-    "shared" : false,
-    "phrases" : [ {
-      "text" : "пока"
-    } ],
-    "priority" : 0
-  }, {
-    "id" : 1313,
-    "path" : "/привет",
-    "enabled" : true,
-    "shared" : false,
-    "phrases" : [ {
-      "text" : "привет"
-    } ],
     "priority" : 0
   }, {
     "id" : 1586,
