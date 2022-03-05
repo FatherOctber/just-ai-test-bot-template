@@ -51,6 +51,18 @@
       "text" : "привет"
     } ],
     "priority" : 0
+  }, {
+    "id" : 1586,
+    "path" : "/мэджик гуди",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "гусь"
+    }, {
+      "text" : "тот самый гусь"
+    } ],
+    "patterns" : [ ],
+    "priority" : 0
   } ],
   "entities" : [ ],
   "enabledSystemEntities" : [ "duckling.number", "duckling.time", "duckling.duration", "duckling.phone-number", "duckling.email", "duckling.url" ],
