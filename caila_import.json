@@ -35,6 +35,16 @@
     } ],
     "patterns" : [ ],
     "priority" : 0
+  }, {
+    "id" : 1587,
+    "path" : "/хаха классик",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "клск"
+    } ],
+    "patterns" : [ ],
+    "priority" : 0
   } ],
   "entities" : [ ],
   "enabledSystemEntities" : [ "duckling.number", "duckling.time", "duckling.duration", "duckling.phone-number", "duckling.email", "duckling.url" ],
